@@ -1,0 +1,1 @@
+Customizable chat program that supports peer to peer as well conference type chatting across multiple platforms. The core technology is RMI(Remote Method Invocation) of Java. The project aims to provide a great alternative to currently available chat clients.
